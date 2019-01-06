@@ -18,6 +18,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#pycharm irrelevant files:
+crawler/.idea
+crawler/__pycache__
+
 # =========================
 # Operating System Files
 # =========================
