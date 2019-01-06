@@ -21,6 +21,8 @@ $RECYCLE.BIN/
 #pycharm irrelevant files:
 crawler/.idea
 crawler/__pycache__
+crawler/source/__pycache__
+
 
 # =========================
 # Operating System Files
